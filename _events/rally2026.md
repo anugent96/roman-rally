@@ -49,7 +49,7 @@ The following sites have signed up to host a Rally Room. Details for each room (
     <tr><td>David Weinberg</td><td>Ohio State University</td><td>Columbus, OH</td><td>Physics Research Building</td><td>30</td></tr>
     <tr><td>Adam Ginsburg</td><td>University of Florida</td><td>Gainesville, FL</td><td>Bryant Space Science Center, Rm 401</td><td>20</td></tr>
     <tr><td>Jesse Han</td><td>Stanford / KIPAC</td><td>Palo Alto, CA</td><td>PAB fishbowl</td><td>20</td></tr>
-    <tr><td>Megan Masterson</td><td>CfA | Harvard &amp; Smithsonian</td><td>Cambridge, MA</td><td>CfA conference room (TBD)</td><td>30</td></tr>
+    <tr><td>Megan Masterson, Anya Nugent, Christina Lindberg</td><td>CfA | Harvard &amp; Smithsonian</td><td>Cambridge, MA</td><td>CfA Wolbach Library</td><td>50</td></tr>
     <tr><td>Jessica Lu</td><td>UC Berkeley Astronomy</td><td>Berkeley, CA</td><td>Campbell Hall, Rm 131</td><td>50</td></tr>
     <tr><td>Timothy Carleton</td><td>Arizona State University</td><td>Tempe, AZ</td><td>Goldwater Center, Rm 505</td><td>30</td></tr>
     <tr><td>Aimee Schechter</td><td>University of Minnesota</td><td>Minneapolis, MN</td><td>Tate Hall, Rm 201/301</td><td>45</td></tr>
